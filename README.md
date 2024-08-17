@@ -1,5 +1,5 @@
 
-# Hi there 👋 I am Anushree!
+# Hi there 👋 
 
 - 😄 Pronouns: She/her
 - 🔭 Diving deep into NLP to build a strong foundation for LLM development.

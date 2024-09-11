@@ -2,7 +2,7 @@
 # Hi there 👋 
 
 - 😄 Pronouns: She/her
-- 🔭 Diving deep into NLP to build a strong foundation for LLM development.
+- 🔭 Diving deep into Data Science.
 - 🌱 I’m currently learning TensorFlow and PyTorch !
 
 

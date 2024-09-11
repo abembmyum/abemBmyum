@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning TensorFlow and PyTorch !
 
 
-[![Anushree's GitHub stats](https://github-readme-stats.vercel.app/api?username=abembmyum&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💻 Tech Stack:
 
@@ -17,10 +16,7 @@
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-abembmyum120-green)](https://www.hackerrank.com/abembmyum120)
 
-## :medal_military: Badges:
 
-
-<img src="https://images.datacamp.com/image/upload/v1717572709/Certification/Badges%202024/outline/SQL_Associate_-_badge_with_outline.png" alt="DataCamp Badge" width="70"/>
 
 
 

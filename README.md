@@ -15,6 +15,8 @@
 ## 🔗 Links:
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-abembmyum120-green)](https://www.hackerrank.com/abembmyum120)
+[![DataCamp](https://img.shields.io/badge/DataCamp-Profile-03EF62?logo=datacamp)](https://www.datacamp.com/portfolio/anushreebmyum)
+
 
 
 
